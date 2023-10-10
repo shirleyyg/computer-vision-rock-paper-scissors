@@ -3,6 +3,8 @@
 ## Table of Content
     1. Introduction
     2. Computer Vision System
+    3. Installation instructions
+    4. Usage Instructions
 
 ### Introduction
 This project implements Rock-Paper-Scissors which is a game in which each player simultaneously shows one of three hand signals representing rock, paper, or scissors. Rock beats scissors. Scissors beats paper. Paper beats rock.
@@ -28,4 +30,4 @@ Run following command in your desire CLI to download my repository:
 git clone https://github.com/shirleyyg/computer-vision-rock-paper-scissors.git
 
 Run following python file to play the game:
-python TBC python filename
+python TBC python filename  
