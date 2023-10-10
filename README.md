@@ -20,4 +20,12 @@ I created 4 different classes for the model: Rock, Paper, Scissors, Nothing. Eac
 Once the images have been added for all the classes, I clicked train model. After training the model, we want to download it to use it with Python application. I downloaded the model from "Tensorflow" tab which contains the structure and the parameters of the deep learning model. Then I added the model files in the Python repo folder. Then added to staging, committed the changes and pushed to Github repo.
 
 ### Setting up the environment
-We need to install some dependencies in order to use the model. To do this I have created a virtual environment using conda, and installed all the required libraries for the model to work. In the environment, firstly I installed package manager called pip. Then used pip to install the package libraries: opencv-python, tensorflow, and ipykernel. 
+I have installed some dependencies in order to use the model. To do this, I have created a virtual environment using conda, and installed all the required libraries for the model to work. In the environment, firstly I installed package manager called pip. Then used pip to install the package libraries: opencv-python, tensorflow, and ipykernel. 
+
+### Usage Instructions
+
+Run following command in your desire CLI to download my repository:
+git clone https://github.com/shirleyyg/computer-vision-rock-paper-scissors.git
+
+Run following python file to play the game:
+python TBC python filename
